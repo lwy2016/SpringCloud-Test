@@ -1,0 +1,1 @@
+curl -v -H "Transfer-Encoding:chunked" -F "file=@C:\Users\lwy2016\Desktop\1.txt" localhost:9073/zuul/api-client1/upload
